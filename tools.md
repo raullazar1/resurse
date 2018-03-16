@@ -27,6 +27,12 @@ Things to look to see if they have implementations for them. They will make your
 ---
 ## BRACKETS EXTENTIONS OR PLAGINS
 
+New Moon Color Theme – my color theme.
+Emmet – simplify writing HTML.
+Beautify – formatting and indentation for files.
+Custom Working Tabs – add tabs.
+Indent Guides – add indent guides.
+Color Highlighter – show colors.
 
 ## CHROME EXTENTIONS
 
