@@ -44,7 +44,7 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
-* CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en): Useful for looking at colors and assets used on a website. A good exercise, especially when starting out, is cloning out websites that you think look cool. This gives you a peek under the hood at their color scheme and allows you to see what other assets exist on their page.
+* [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en): Useful for looking at colors and assets used on a website. A good exercise, especially when starting out, is cloning out websites that you think look cool. This gives you a peek under the hood at their color scheme and allows you to see what other assets exist on their page.
 
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en): — Useful for seeing the technologies being used on a website. Ever wonder what kind of framework a website is using or what service it is hosted on? Look no further.
 
